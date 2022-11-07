@@ -183,3 +183,9 @@ Solidity- The quality or state of being solid.
 
 
 In the end, OTP is sent to the number and the secret code is to be entered to complete the transaction.
+
+
+DEPLOYMENT
+
+
+For serverless deployment, we can use logic app in azure serveless compute funtions . For deplyment using server we can build docker images in ACR Azure Container Registry using AKS Azure Kubernetes Service
